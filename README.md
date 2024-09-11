@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social Links Profile Solution
 
 This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
@@ -7,8 +7,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-faith/qr-code-component)
-- Live Site URL: [Add live site URL here](https://samuel-qr-code-design.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/samuel-faith/social-links-profile-main)
+- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/social-links-profile-main//)
 
 ## My process
 
