@@ -78,6 +78,10 @@ p {
     color:#c5f82a; 
 }
 
+a {
+    text-decoration: none;
+}
+
 @media (max-width:320px) {
     .container {
         max-width: 90%;
